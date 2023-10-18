@@ -25,7 +25,7 @@ int main() {
     for (int j = 0; j < arr[0].size(); j++) {
         cout << arr[i][j] << " ";
     }
-    cout << "n";
+    cout << "\n";
     }
 
 }
