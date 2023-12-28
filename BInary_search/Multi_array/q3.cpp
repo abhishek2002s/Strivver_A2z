@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-// Function to find median  of row wise sorted matrix :: 
+// Function to find median  of row wise sorted matrix
 int Findmedian(int arr[3][3], int row, int col)
 {
   int median[row * col];
